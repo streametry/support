@@ -1,4 +1,5 @@
-support
+Streametry Support
 =======
 
-Public repository for issues and feature requests
+Public repository for issues and feature requests.
+
